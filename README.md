@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm María ✨  
-A Computer Science graduate and Software Development student from Colombia 🇨🇴  
-I'm passionate about creative coding and encouraging other girls to explore the tech world 💻
+I'm Software Development student from Colombia!
+
 
 ---
 
